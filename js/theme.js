@@ -108,7 +108,7 @@
 	/*----------------------------------------------------*/
     /*  Simple LightBox js
     /*----------------------------------------------------*/
-    $('.imageGallery1 .light').simpleLightbox();
+    // $('.imageGallery1 .light').simpleLightbox();
 	
 	$('.counter').counterUp({
 		delay: 10,
