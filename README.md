@@ -1,2 +1,0 @@
-# Oulsjeg.github.io
-Portfolio
